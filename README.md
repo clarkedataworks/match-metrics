@@ -1,7 +1,7 @@
 # Match Metrics ⚽📊
 
 Welcome to my football data science portfolio.  
-This is where I store and share projects exploring football analytics — including player performance, match predictions, and scouting analysis.
+This is where I store and share projects exploring football analytics, including player performance, match predictions, and scouting analysis.
 
 ## 📂 Projects
 - Player Performance Dashboard (Power BI)
